@@ -3,7 +3,7 @@
 
 🐾 DonatePet - A simple pet adoption system that displays pets available for adoption, categorized as All, Dogs, Cats, and Fish.
 
-Project developed during the ReactJS Ignite Course from [Rocketseat](https://www.rocketseat.com.br/ignite).
+Project developed in order to practice what I am studying.
 
 ---
 
