@@ -1,0 +1,53 @@
+# DonatePet
+## About
+
+🐾 DonatePet - A simple pet adoption system that displays pets available for adoption, categorized as All, Dogs, Cats, and Fish.
+
+Project developed during the ReactJS Ignite Course from [Rocketseat](https://www.rocketseat.com.br/ignite).
+
+---
+
+## Features
+
+- [x] Display pets for adoption
+- [x] Categorize pets into Dogs, Cats, and Fish
+- [x] Filter pets by breed
+- [x] Simple and intuitive user interface
+
+---
+
+## How it works
+
+### Pre-requisites
+
+Before you begin, you will need to have the following tools installed on your machine:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
+
+#### Running the web application (Frontend)
+
+```bash
+
+# Clone this repository
+$ git clone https://github.com/seu-usuario/donatePet.git
+
+# Access the project folder in your terminal
+$ cd donatePet
+
+# Install the dependencies
+$ npm install
+
+# Run the application in development mode
+$ nodemon -e mustache,js src/server.js
+
+# The app will open on the port: 3001 - go to http://localhost:3001/
+
+```
+
+---
+
+## Tech Stack
+
+The following tools were used in the construction of the project:
+
+#### **Backend**  ([Node.js](https://nodejs.org/en)  +  [Express.js](https://expressjs.com/))
