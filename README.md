@@ -1,7 +1,7 @@
 # DonatePet
 ## About
 
-🐾 DonatePet - A simple pet adoption system that displays pets available for adoption, categorized as All, Dogs, Cats, and Fish.
+🐾 Donate-Pet - A simple pet adoption system that displays pets available for adoption, categorized as All, Dogs, Cats, and Fish.
 
 Project developed in order to practice what I am studying.
 
@@ -29,10 +29,10 @@ In addition, it is good to have an editor to work with the code like [VSCode](ht
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/3lucasrs/donatePet.git
+$ git clone https://github.com/3lucasrs/donate-pet.git
 
 # Access the project folder in your terminal
-$ cd donatePet
+$ cd donate-pet
 
 # Install the dependencies
 $ npm install
