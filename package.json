@@ -1,0 +1,15 @@
+{
+  "name": "canil",
+  "version": "1.0.0",
+  "description": "Projeto canil ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Rafael",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mustache-express": "^1.3.2"
+  }
+}
