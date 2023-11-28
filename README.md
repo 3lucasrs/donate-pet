@@ -24,7 +24,7 @@ Before you begin, you will need to have the following tools installed on your ma
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
-#### Running the web application (Frontend)
+#### Running the web application (Back-end)
 
 ```bash
 
